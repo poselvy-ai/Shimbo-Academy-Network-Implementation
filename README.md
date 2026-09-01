@@ -18,4 +18,12 @@ The repository focus on project-coordination responsibilities surrounding techni
 
 ## Why I Created This Project
 
+I developed this project for two reasons. First, I believe that childhood education in developing nations is essential for a stronger and more equitable world. As a person with convictions and ideals, I feel compelled to put my knowledge and experience into action, even if it benefits only a small fraction of children.
+
+Second, after working in the Information Technology industry for nearly 30 years, I want to showcase additional skills I’ve developed as I transition into IT‑adjacent roles, including Technical Project Coordinator, Infrastructure Project Coordinator, Implementation Coordinator, and IT Program Support.
+
+My technical career has required many of the same skills used in project coordination: organizing work across teams, communicating during critical events, managing operational dependencies, coordinating vendors, documenting decisions, supporting technology implementations, and helping transition completed work into ongoing operations.
+
+However, much of that experience occurred within operational or technical positions rather than under a formal project‑coordinator title. I created this portfolio project to demonstrate how that experience translates into structured project‑coordination practices and deliverables.
+
 
