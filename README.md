@@ -26,4 +26,28 @@ My technical career has required many of the same skills used in project coordin
 
 However, much of that experience occurred within operational or technical positions rather than under a formal project‑coordinator title. I created this portfolio project to demonstrate how that experience translates into structured project‑coordination practices and deliverables.
 
+## Origin of the Project
 
+The project scenario is built from my completed Western Governors University IT Capstone in Network Operations and Security. 
+
+The academic work proposed the implementation of of a new network for the **Shimbo Academy**. The scenario included a building with two buildings, no existing network infrastructure, approximately 150 anticipated users, classroom technology requirements, internet connectivity, network segmentation, wireless access, equipment, procurement, implementation activities, testing, and operational handoff. 
+
+The capstone also included an after-action scenario describing the project events. 
+
+- Procurement and international shipping delays.
+- Equipment Availability constraints.
+- A workaround for unavailable cable-management materials.
+- Configuration time recovered through software-defined networking.
+- An unexpected WAN addressing and NAT issue.
+- Coordination and vendor technical support.
+- The addition of two servers after the initial requirement were development.
+- Change to content-filtering controls
+- Differences between the planned and final schedules.
+
+The approved capstone is preserved as a frozen source documents under:
+[!WARNING]
+Please do not change the source document
+
+x/x/x
+
+The original document has no been rewritten to make it appear more comprehensive than the academic assignment required. 
