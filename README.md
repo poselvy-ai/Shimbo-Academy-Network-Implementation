@@ -50,7 +50,7 @@ The approved capstone is preserved as a frozen source documents under:
 >[!WARNING]
 >DO NOT CHANGE CAPSTONE DOCUMENTS
 
-Resources/documents/academic-capstones
+Resources/documents/academic-capstones(Resources/documents/academic-capstones)
 
 The original document has not been rewritten to make it appear more comprehensive than the academic assignment required. 
 
