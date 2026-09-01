@@ -1,4 +1,5 @@
 # Shimbo Academy Network Implantation 
+# Patrick O. Selvy
 > Technical Project Coordination Portfolio
 ## Project Overview 
 The repository document is an end-to-end summary of a technical infrastructure implementation project for the ***Shimbo Academy***, a fictional school based in Zambia, Africa, preparing to introduce technology‑based education and classroom computing in a semi‑remote location of Zambia.
@@ -51,4 +52,48 @@ The approved capstone is preserved as a frozen source documents under:
 
 x/x/x
 
-The original document has no been rewritten to make it appear more comprehensive than the academic assignment required. 
+The original document has not been rewritten to make it appear more comprehensive than the academic assignment required. 
+
+## Why the Project is Simulated
+
+The capstone was designed to satisfy specific academic requirements. It was not intended to produce every document, record, control, and communication artifact that would be created during a complete implementation project.
+
+I therefore used the capstone as the foundation for a more complete project simulation.
+
+The simulation allows me to take the project’s original requirements, constraints, technical decisions, implementation events, and outcomes and develop the supporting materials that a project coordinator could be expected to maintain throughout the project lifecycle.
+
+These materials include the project charter, stakeholder register, RACI matrix, work breakdown structure, project schedule, communications plan, RAID log, procurement tracker, status reports, meeting records, change requests, decision log, testing records, customer acceptance, handoff documentation, and project closeout materials.
+
+## Simulation Authorship Disclosure 
+
+This repository is an academic-derived portfolio simulation. It does not represent an actual network implementation completed for a real **Shimbo Academy** or an outside customer.
+
+I created the project-team artifacts and the representative customer-side artifacts contained in this repository. Customer requirements, communications, approvals, change requests, meeting records, and acceptance documents are simulated to show how information would move between a customer and an implementation team during a functional project.
+
+Information taken directly from the approved capstone is identified as source material. Information needed to make the project operationally complete—but not specified in the capstone—is identified as a derived requirement, project assumption, corrected baseline, or simulated project event.
+
+## What This Project Demonstrates
+
+This project demonstrates my ability to combine technical infrastructure knowledge with project-coordination practices.
+
+The purpose is not to present myself as the engineer personally performing every configuration, installation, or testing activity. The purpose is to demonstrate that I can understand technical requirements, coordinate the people responsible for the work, track dependencies and risks, communicate project status, maintain project records, and help move an implementation from customer need to operational acceptance.
+
+The completed repository provides evidence of capabilities relevant to:
+
+- Technical Project Coordinator
+- Infrastructure Project Coordinator
+- IT Implementation Coordinator
+- IT Program Coordinator
+- Project Management Analyst
+- Technology Operations Coordinator
+
+##Repository Navigation
+
+| Section | Content| 
+|---|---|
+|resources/ | Frozen capstone source document, supporting diagrams, and reference material |
+|project-initiation/ | Customer request, business case, charter, scope, stakeholders, assumptions, and authorization |
+|project-planning/ | Requirements, WBS, schedule, RACI, communications, budget, procurement, and risk planning |
+|project-controls/ | RAID log, decision log, change requests, schedule updates, and variance tracking |
+|testing-and-acceptance/ | Test plan, requirements traceability, acceptance records, and go-live readiness |
+|project-closeout/ | Handoff documentation, final report, after-action review, and lessons learned |
