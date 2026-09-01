@@ -1,1 +1,1 @@
-# Shimbo-Academy-project-coordination
+# ** Shimbo Academy Network Implantation **
