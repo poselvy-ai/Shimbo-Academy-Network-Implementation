@@ -45,8 +45,9 @@ The capstone also included an after-action scenario describing the project event
 - Differences between the planned and final schedules.
 
 The approved capstone is preserved as a frozen source documents under:
-[!WARNING]
-Please do not change the source document
+
+>[!WARNING]
+>Please do not change the source document
 
 x/x/x
 
