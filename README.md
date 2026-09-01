@@ -1,4 +1,4 @@
-# Shimbo Academy Network Implantation 
+# Shimbo Academy Network Implenentation 
 # Patrick O. Selvy
 > Technical Project Coordination Portfolio
 ## Project Overview 
@@ -6,7 +6,7 @@ The repository document is an end-to-end summary of a technical infrastructure i
 
 I created this project to demonstrate how I would coordinate the technical implementation and design the network, from the initial customer request through the project planning, execution, issue resolution, testing, customer acceptance, operational handoff, and close out. 
 
-The repository focus on project-coordination responsibilities surrounding technical work, including:
+The repository focuses on project-coordination responsibilities surrounding technical work, including:
 
 - Translating customers needs into defined project requirements.
 - Establishing project scope, objectives, assumptions, and acceptance criteria.
@@ -31,7 +31,7 @@ However, much of that experience occurred within operational or technical positi
 
 The project scenario is built from my completed Western Governors University IT Capstone in Network Operations and Security. 
 
-The academic work proposed the implementation of of a new network for the **Shimbo Academy**. The scenario included a building with two buildings, no existing network infrastructure, approximately 150 anticipated users, classroom technology requirements, internet connectivity, network segmentation, wireless access, equipment, procurement, implementation activities, testing, and operational handoff. 
+The academic work proposed the implementation of of a new network for the **Shimbo Academy**. The scenario included a school with two buildings, no existing network infrastructure, approximately 150 anticipated users, classroom technology requirements, internet connectivity, network segmentation, wireless access, equipment, procurement, implementation activities, testing, and operational handoff. 
 
 The capstone also included an after-action scenario describing the project events. 
 
@@ -40,8 +40,8 @@ The capstone also included an after-action scenario describing the project event
 - A workaround for unavailable cable-management materials.
 - Configuration time recovered through software-defined networking.
 - An unexpected WAN addressing and NAT issue.
-- Coordination and vendor technical support.
-- The addition of two servers after the initial requirement were development.
+- Coordination with vendor technical support.
+- The addition of two servers after the initial requirements were development.
 - Change to content-filtering controls
 - Differences between the planned and final schedules.
 
@@ -50,7 +50,7 @@ The approved capstone is preserved as a frozen source documents under:
 >[!WARNING]
 >DO NOT CHANGE CAPSTONE DOCUMENTS
 
-Resources/documents/academic-capstones(Resources/documents/academic-capstones)
+Resources/documents/academic-capstones
 
 The original document has not been rewritten to make it appear more comprehensive than the academic assignment required. 
 
@@ -87,7 +87,7 @@ The completed repository provides evidence of capabilities relevant to:
 - Project Management Analyst
 - Technology Operations Coordinator
 
-##Repository Navigation
+## Repository Navigation
 
 | Section | Content| 
 |---|---|
