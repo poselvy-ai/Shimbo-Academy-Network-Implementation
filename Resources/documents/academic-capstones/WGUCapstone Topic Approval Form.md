@@ -1,0 +1,50 @@
+#C769 Task 1 IT Capstone Topic Approval Form
+
+
+The purpose of this document is to help you clearly explain your capstone topic, project scope, and timeline and to ensure that they align with your degree emphasis. Without clearly addressing each of these areas, you will not have a complete and realistic overview of your project, and your instructor cannot accurately assess whether your project will be viable for the purposes of these courses. 
+Complete this form and send it (via UGCapstoneIT@WGU.edu) to your instructor for approval. Once approved, you will receive a signed document in PDF format that you can upload as part of Task 1.
+It is the policy of Western Governors University (WGU) that student capstone projects should not be based on or include, without authorization, restricted information. Restricted information is any proprietary or classified information or material belonging to your employer or any other third party. You acknowledge that you will not use restricted information in your capstone project without obtaining the third party’s permission by using the “IT Capstone Project Restricted Information Authorization Form” found in the Supporting Documents section of Task 1. 
+
+##DEGREE EMPHASIS: Network Operations and Security 
+
+ANALYSIS:
+  Project Topic – Establish a new network.
+  Problem Statement or Project Purpose – A school in Zambia, Africa has decided to start offering computer technology classes their students, a well as bring technology into the classroom. 
+
+##DESIGN and DEVELOPMENT:
+
+  Project Scope - 
+    a.	Project Goal(s) and Supporting Objectives – The goal of the project is to build a network from the ground up to support 150 host with room to expand over 3 logical networks. We will accomplish this by resourcing all necessary devices and services. Installing, conjuring, and cabling all devices appropriately. 
+    b.	Project Outcomes and Deliverables – The outcome of the project will establish a network were the student and staff will be able to access the internet, train on todays technology, as well as bring technology into the classroom. 
+    c.	Project assumptions – 
+        i.	Me and my team assume that the school has contracted with vendor to support and maintain user credentials. 
+        ii.	We also assume that host i.g. tablets, smart televisions, laptops, and other end devices have been purchased.
+        iii.	Assume that budgetary concerns have been met for this project.  
+
+##IMPLEMENTATION and EVALUATION:
+
+Describe how you will approach the execution of your project – 
+  My team and I will approach the execution of this project in 3 phase. 
+
+Phase 1: Resourcing and purchase 
+  1.1	Evaluate the ISP on the band with that they can provide against their average availability time determine which is the best ISP to recommend to the stakeholder for purchase. 
+  1.2	Evaluate the secondary market of network equipment to determine the products the stakeholder can afford, that meets the scope of the project.
+  1.3	Purchase of all goods and services
+  1.4	Delivery of all goods and service 
+
+Phase 2 – Configuration and cabling 
+  2.1     Configuration of network equipment
+  2.2     Cabling of equipment 
+  2.3     Cabling of network ports 
+
+Phase 3 – Test and handover. 
+  3.1     Conduct logical test of network device 
+  3.2     Conduct Physical test of stakeholder equipment
+  3.3     Go live day of network 	
+
+IRB REVIEW:
+
+ This project does not involve human subjects research and is exempt from WGU IRB review.
+COURSE INSTRUCTOR SIGNATURE:   
+
+COURSE INSTRUCTOR APPROVAL DATE:  3/9/2025
