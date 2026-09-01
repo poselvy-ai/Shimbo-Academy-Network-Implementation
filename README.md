@@ -1,1 +1,1 @@
-# Shimbo Academy Network Implantation **bold**
+# Shimbo Academy Network Implantation **Bold Text**
