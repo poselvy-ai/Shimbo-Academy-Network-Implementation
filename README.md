@@ -91,9 +91,11 @@ The completed repository provides evidence of capabilities relevant to:
 
 | Section | Content| 
 |---|---|
-|resources/ | Frozen capstone source document, supporting diagrams, and reference material |
+|Resources/ | Frozen capstone source document, supporting diagrams, and reference material |
 |project-initiation/ | Customer request, business case, charter, scope, stakeholders, assumptions, and authorization |
-|project-planning/ | Requirements, WBS, schedule, RACI, communications, budget, procurement, and risk planning |
+|project-planning/ | Requirements, WBS, schedule, RACI, communications, budget, vendor comparisons, procurement, and risk planning |
 |project-controls/ | RAID log, decision log, change requests, schedule updates, and variance tracking |
-|testing-and-acceptance/ | Test plan, requirements traceability, acceptance records, and go-live readiness |
+|project-execution/ | Action log, Meeting Minutes, Status reports |
+|testing-and-handoff/ | Test plan, requirements traceability, acceptance records, and go-live readiness |
 |project-closeout/ | Handoff documentation, final report, after-action review, and lessons learned |
+|diagrams/ | Network diagrams |
