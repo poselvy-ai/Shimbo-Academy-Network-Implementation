@@ -47,7 +47,7 @@ The capstone also included an after-action scenario describing the project event
 The approved capstone is preserved as a frozen source documents under:
 
 >[!WARNING]
->Please do not change the source document
+>DO NOT CHANGE CAPSTONE DOCUMENTS
 
 x/x/x
 
