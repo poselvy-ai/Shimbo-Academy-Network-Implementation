@@ -1,4 +1,4 @@
-# Shimbo Academy Network Implenentation 
+# Shimbo Academy Network Implenentation.
 # Patrick O. Selvy
 > Technical Project Coordination Portfolio
 ## Project Overview 
