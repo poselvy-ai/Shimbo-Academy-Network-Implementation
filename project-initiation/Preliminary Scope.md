@@ -1,10 +1,10 @@
-#Project Purpose
+# Project Purpose
 Shimbo Academy is seeking a wired / wireless network infrastructure that will bring internet connectivity to their school 
 
-#Preliminayr Objective
+# Preliminayr Objective
 Allow digital recourses in the classroom. The network also must support 150 user to include students, teachers, administrative staff, and future growth. 
 
-#In-scope work
+# In-scope work
 based on current correspondence 
 - Preliminary site and require assessment
 - ISP availability assessment
@@ -15,7 +15,7 @@ based on current correspondence
 - Network Configuration and testing
 - Documentation, knowledge transfer, and handoff
 
-#Currently out of Scope
+# Currently out of Scope
 based on current correspondence
 -End user device procurement 
 -user account administration 
